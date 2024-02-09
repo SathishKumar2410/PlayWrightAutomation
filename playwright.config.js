@@ -46,7 +46,7 @@ module.exports = defineConfig({
     {
       name: 'Google Chrome',
       use: {
-        channel: 'chrome-beta',
+        channel: 'chrome',
         headless: false,
         screenshot: 'on',
         trace: 'on',
